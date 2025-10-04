@@ -1,5 +1,6 @@
 # 유전 형질 예측 프로그램 (사진 인식 버전)
-# 
+# 테스트 X
+
 # 추가 설치 필요:
 # pip install streamlit opencv-python pillow numpy mediapipe
 
